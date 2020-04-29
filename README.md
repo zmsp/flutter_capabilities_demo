@@ -1,2 +1,1 @@
-from server directory run python server.py
-run the flutter app for the web
+This repository is to demonstrate some capabilities for flutter for web.
